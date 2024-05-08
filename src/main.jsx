@@ -4,12 +4,13 @@ import ReactDOM from 'react-dom/client'
 // import { CounterApp } from './01-useState/CounterApp'
 // import { CounterCustomHook } from './01-useState/CounterCustomHook'
 // import { SimpleForm } from './02-useEffect/SimpleForm'
-import { FormCustomHook } from './02-useEffect/FormCustomHook'
+// import { FormCustomHook } from './02-useEffect/FormCustomHook'
+import { MultipleCustomHooks } from './03-examples/MultipleCustomHooks'
 
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <FormCustomHook />
+    <MultipleCustomHooks />
   </React.StrictMode>
 )
