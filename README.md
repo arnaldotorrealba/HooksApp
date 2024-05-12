@@ -7,5 +7,6 @@ Estudio sobre hooks en React:
 - useEffect
 - useForm (Custom hook)
 - useRef
+- useLayoutEffect
 
 # Deploy
